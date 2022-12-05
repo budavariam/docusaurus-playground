@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_playground=self.webpackChunkdocusaurus_playground||[]).push([[1545],{4117:a=>{a.exports=JSON.parse('{"label":"mermaid","permalink":"/blog/tags/mermaid","allTagsPath":"/blog/tags","count":1}')}}]);
