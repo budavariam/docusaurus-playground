@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_playground=self.webpackChunkdocusaurus_playground||[]).push([[6099],{3992:s=>{s.exports=JSON.parse('{"permalink":"/blog/tags/mermaid","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
